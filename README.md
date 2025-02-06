@@ -1,1 +1,2 @@
 # Time_Series_Forcasting
+The number of sunspots observed on the "surface" of the Sun varies from year to year. The sun is most active during the years of sunspot maximums, pouring the greatest amount of energy and radiation into the Earth's environment. Therefore during sunspot maximums, the Earth will see an increase in the Northern and Southern Lights and a possible disruption in radio transmissions and power grids. Therefore it is important to keep track of a sunspot count
